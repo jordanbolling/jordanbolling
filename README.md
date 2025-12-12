@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [An Analysis of Coca-Cola Company's Strategy and HR Activities (2025)](https://github.com/jordanbolling/Dashboard-on-Python)
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
