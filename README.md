@@ -9,9 +9,15 @@
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>Certifications</h2>
+<h2>✍️ Courses</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- Intermediate Python
+- Data Manipulation with pandas
+- Introduction to Statistics in Python
+- Joining Data with pandas
+- Introduction to Data Visualization with Seaborn
+
+[DataCamp Profile](https://www.datacamp.com/portfolio/jjb249)
 
 <h2> 🤳 Connect with me:</h2>
 
