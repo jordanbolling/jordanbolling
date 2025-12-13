@@ -4,8 +4,7 @@
 
 - [An Analysis of Coca-Cola Company's Strategy and HR Activities (2025)](https://github.com/jordanbolling/Dashboard-on-Python)
 - [A Sales Forecast of a Music Store](https://github.com/jordanbolling/Sales-Forecast-on-R)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Transportation Cost Analysis](https://github.com/jordanbolling/Transportation-Cost-Analysis-Using-Excel/tree/main)
 - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
