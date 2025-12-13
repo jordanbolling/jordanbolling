@@ -4,8 +4,8 @@
 
 - [An Analysis of Coca-Cola Company's Strategy and HR Activities (2025)](https://github.com/jordanbolling/Dashboard-on-Python)
 - [A Sales Forecast of a Music Store](https://github.com/jordanbolling/Sales-Forecast-on-R)
-- [Transportation Cost Analysis](https://github.com/jordanbolling/Transportation-Cost-Analysis-Using-Excel/tree/main)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [A Transportation Cost Analysis](https://github.com/jordanbolling/Transportation-Cost-Analysis-Using-Excel/tree/main)
+- [An Analysis of Data from Airbnb Listings in Bristol City UK (2024)](https://github.com/jordanbolling/Analysis-of-Airbnb-Listings-in-Bristol-City-UK-2024-/tree/main)
 
 
 <h2>✍️ Courses</h2>
