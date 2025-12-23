@@ -9,6 +9,7 @@ I'm a recent graduate in Business Analytics. I'm Eager to launch a career in a h
 - [A Transportation Cost Analysis](https://github.com/jordanbolling/Transportation-Cost-Analysis-Using-Excel/tree/main)
 - [An Analysis of Data from Airbnb Listings in Bristol City UK (2024)](https://github.com/jordanbolling/Analysis-of-Airbnb-Listings-in-Bristol-City-UK-2024-/tree/main)
 - [A Cluster Analysis and Market Positioning Strategy for JD.com based on Survey Data (2024)](https://github.com/jordanbolling/An-Analysis-of-JD.com-s-Segmentation-Targeting-and-Positioning-Strategy-2024-/tree/main)
+- [Data Envelopment Analysis (DEA) Analysis Using Excel](https://github.com/jordanbolling/Data-Envelopment-Analysis-DEA-Analysis-Using-Excel/tree/main)
 
 <h2>✍️ Courses</h2>
 
