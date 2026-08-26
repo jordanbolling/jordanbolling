@@ -12,7 +12,7 @@ I'm a problem-solver. I have experience in data analysis and designing AI-driven
 <h2>Working with Fictional Datasets:</h2>
 
 * [A Sales Forecast of a Music Store](https://github.com/jordanbolling/Sales-Forecast-on-R)
-* [SQL](https://github.com/jordanbolling/Analysis-of-Airbnb-Listings-in-Bristol-City-UK-2024-/tree/main)
+* [Database Generation and Analysis on SQL and Python](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL)
 
 
 <h2>Mathematical Problem-Solving Using Excel:</h2>
