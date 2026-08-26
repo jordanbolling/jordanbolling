@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jordan! </h1>
 
-I'm a recent graduate in Business Analytics. I'm Eager to launch a career in a highly innovative and collaborative environment, with the ability to contribute across various business units.
+I'm a problem-solver. I have experience in data analysis and designing AI-driven automation workflows. Below is a list of my projects!
 
 <h2>👨‍💻 Business Analytics Projects:</h2>
 
