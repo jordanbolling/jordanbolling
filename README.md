@@ -12,6 +12,8 @@ I'm a problem-solver. I have experience in data analysis and designing AI-driven
 - [A Sales Forecast of a Music Store](https://github.com/jordanbolling/Sales-Forecast-on-R)
 - SQL
 
+
+
 <h2>Mathematical Problem-Solving Using Excel:</h2>
 - [Logistics Cost Minimisation](https://github.com/jordanbolling/Transportation-Cost-Analysis-Using-Excel/tree/main)
 - [Comparative Efficiency Analysis](https://github.com/jordanbolling/Data-Envelopment-Analysis-DEA-Analysis-Using-Excel/tree/main)
