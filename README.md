@@ -16,7 +16,7 @@ I'm a problem-solver. I have experience in data analysis, vibe coding,and design
 <h2>Working with Fictional Datasets:</h2>
 
 * [A Sales Forecast of a Music Store](https://github.com/jordanbolling/Sales-Forecast-on-R)
-* [Database Generation and Analysis on SQL and Python](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL)
+* [SQL Database Generation and Analysis](https://github.com/jordanbolling/Database-Generation-and-Analysis-on-SQL)
 
 
 <h2>Mathematical Problem-Solving Using Excel:</h2>
