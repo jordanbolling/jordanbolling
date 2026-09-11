@@ -1,6 +1,10 @@
 <h1>Hi, I'm Jordan! </h1>
 
-I'm a problem-solver. I have experience in data analysis and designing AI-driven automation workflows. Below is a list of my projects! 👨‍💻
+I'm a problem-solver. I have experience in data analysis, vibe coding,and designing AI-driven automation workflows. Below is a list of my projects! 👨‍💻
+
+<h2>Building Production-grade Software Applications:</h2>
+
+* [Pocket Stock: An AI-driven Portfolio Management Web Application](https://github.com/jordanbolling/An-AI-driven-Portfolio-Management-and-Data-Analysis-Web-Application)
 
 <h2>Solving Real-World Business Problems:</h2>
 
